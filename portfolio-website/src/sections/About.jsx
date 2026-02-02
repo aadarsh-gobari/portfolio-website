@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <section style={{ padding: "4rem", backgroundColor: "#f9f9f9" }}>
+    <section className="alt-bg" style={{ padding: "4rem", backgroundColor: "#f9f9f9" }}>
       <h2>About Me</h2>
 
       <p style={{ maxWidth: "800px", marginTop: "1rem" }}>

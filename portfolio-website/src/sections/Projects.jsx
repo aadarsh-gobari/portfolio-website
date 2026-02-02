@@ -1,6 +1,6 @@
 const Projects = () => {
   return (
-    <section style={{ padding: "4rem", backgroundColor: "#f9f9f9" }}>
+    <section  className="alt-bg" style={{ padding: "4rem", backgroundColor: "#f9f9f9" }}>
       <h2>Projects</h2>
 
       {/* Project 1 */}

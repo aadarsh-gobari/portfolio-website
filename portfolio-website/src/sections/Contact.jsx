@@ -12,9 +12,17 @@ const Contact = () => {
       <ul style={{ marginTop: "1.5rem", lineHeight: "1.8" }}>
         <li>
           📧 Email:{" "}
-          <a href="mailto:aadarsh.gobari@gmail.com">
-            aadarsh.gobari@gmail.com
+          <a href="mailto:aadarshgobari@gmail.com">
+            aadarshgobari@gmail.com
           </a>
+           
+            
+        </li>
+        <li>
+          📧 Email:{" "}
+           <a href="mailto:gobariaadarsh@gmail.com">gobariaadarsh@gmail.com</a>
+           
+            
         </li>
         <li>
           🔗 LinkedIn:{" "}
