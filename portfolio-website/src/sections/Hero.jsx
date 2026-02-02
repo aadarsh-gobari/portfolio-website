@@ -25,12 +25,11 @@ const Hero = () => {
         GitHub
       </a>
 
-      <a
-        href="public/Aadarsh_Gobari_Resume.pdf"
+      <a href="./Aadarsh_Gobari_Resume.pdf" target="_blank" rel="noreferrer">
+
         target="_blank"
         rel="noreferrer"
         className="secondary"
-      >
         Resume
       </a>
     </div>
