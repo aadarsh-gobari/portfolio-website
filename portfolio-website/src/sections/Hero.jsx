@@ -26,7 +26,7 @@ const Hero = () => {
       </a>
 
       <a
-        href="/Aadarsh_Gobari_Resume.pdf"
+        href="public/Aadarsh_Gobari_Resume.pdf"
         target="_blank"
         rel="noreferrer"
         className="secondary"
