@@ -15,20 +15,25 @@ const Hero = () => {
       📍 Miami, USA &nbsp; | &nbsp; Open to Full-Time Roles
     </p>
 
-    <div className="button-group">
-      <a
-        href="https://github.com/aadarsh-gobari"
-        target="_blank"
-        rel="noreferrer"
-        className="primary"
-      >
-        GitHub
-      </a>
+   <div className="button-group">
+  <a
+    href="https://github.com/aadarsh-gobari"
+    target="_blank"
+    rel="noreferrer"
+    className="primary"
+  >
+    GitHub
+  </a>
 
-      <a  href="/portfolio-website/Aadarsh_Gobari_Resume.pdf" target="_blank" rel="noreferrer">
-        Resume
-      </a>
-    </div>
+  <a
+    href="/portfolio-website/Aadarsh_Gobari_Resume.pdf"
+    target="_blank"
+    rel="noreferrer"
+    className="secondary"
+  >
+    Resume
+  </a>
+</div>
   </section>
 );
 
