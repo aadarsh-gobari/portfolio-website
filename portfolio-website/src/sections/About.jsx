@@ -3,7 +3,7 @@ const experiences = [
     title: "Data Analyst Intern",
     company: "Synaptech Labs",
     location: "Remote, USA",
-    period: "Jan 2023 – May 2025",
+    period: "Sep 2023 – May 2025",
     type: "Internship",
     bullets: [
       "Analyzed large datasets using Python and SQL to identify trends and support business decisions",
@@ -19,7 +19,7 @@ const experiences = [
     title: "Data Analyst",
     company: "Cognizant",
     location: "India",
-    period: "Jul 2019 – Dec 2022",
+    period: "Jul 2019 – Jun 2023",
     type: "Full-time",
     bullets: [
       "Extracted, transformed, and loaded data from multiple sources using SQL and Python for business reporting",
